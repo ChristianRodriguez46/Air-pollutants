@@ -20,11 +20,11 @@ library(reshape2)    # Reshaping data (e.g., melt)
 # -----------------------------------------------------------------------------
 # Section 1: Read and Combine PM2.5 Data Files
 # -----------------------------------------------------------------------------
-file_names <- c('ad_viz_plotval_data.csv',
-                'ad_viz_plotval_data (1).csv',
-                'ad_viz_plotval_data (2).csv',
-                'ad_viz_plotval_data (3).csv',
-                'ad_viz_plotval_data (4).csv')
+file_names <- c('Pm2.5-2018.csv',
+                'Pm2.5-2019.csv',
+                'Pm2.5-2020.csv',
+                'Pm2.5-2021.csv',
+                'Pm2.5-2022.csv')
 
 # Read each CSV into a list and combine into one data frame
 pm25_data_list <- lapply(file_names, function(file) {

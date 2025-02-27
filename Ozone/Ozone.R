@@ -550,9 +550,3 @@ print(head(Ozone_weighted_monthly))
 # disparities in Ozone exposure in relation to socioeconomic status.
 #
 # =============================================================================
-
-# calc avg exposure for each income group
-# 
-# concentration index (read more)
-#   - sort counties by income (done)
-#   -compute fractional rank()

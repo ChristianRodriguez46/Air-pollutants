@@ -20,11 +20,11 @@ library(reshape2)    # Reshaping data (e.g., melt)
 # -----------------------------------------------------------------------------
 # Section 1: Read and Combine Ozone Data Files
 # -----------------------------------------------------------------------------
-file_names <- c('ad_viz_plotval_data.csv',
-                'ad_viz_plotval_data (1).csv',
-                'ad_viz_plotval_data (2).csv',
-                'ad_viz_plotval_data (3).csv',
-                'ad_viz_plotval_data (4).csv')
+file_names <- c('Ozone-2018.csv',
+                'Ozone-2019.csv',
+                'Ozone-2020.csv',
+                'Ozone-2021.csv',
+                'Ozone-2022.csv')
 
 # Read each CSV into a list and combine into one data frame
 Ozone_data_list <- lapply(file_names, function(file) {

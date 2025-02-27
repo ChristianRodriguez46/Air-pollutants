@@ -20,11 +20,11 @@ library(reshape2)    # Reshaping data (e.g., melt)
 # -----------------------------------------------------------------------------
 # Section 1: Read and Combine NO2 Data Files
 # -----------------------------------------------------------------------------
-file_names <- c('ad_viz_plotval_data(NO2).csv',
-                'ad_viz_plotval_data(NO2) (1).csv',
-                'ad_viz_plotval_data(NO2) (2).csv',
-                'ad_viz_plotval_data(NO2) (3).csv',
-                'ad_viz_plotval_data(NO2) (4).csv')
+file_names <- c('NO2-2018.csv',
+                'NO2-2019.csv',
+                'NO2-2020.csv',
+                'NO2-2021.csv',
+                'NO2-2022.csv')
 
 # Read each CSV into a list and combine into one data frame
 NO2_data_list <- lapply(file_names, function(file) {

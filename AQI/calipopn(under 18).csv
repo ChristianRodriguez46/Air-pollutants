@@ -1,0 +1,68 @@
+﻿County,FIPS,Value (Percent),People (Age Under 18),Rank within US (of 3143 counties)
+United States,0,22.1,73213705,N/A
+California,6000,22.3,8774570,21 of 52
+San Francisco County,6075,13.6,115402,"3,109"
+Sierra County,6091,13.9,406,"3,104"
+Amador County,6005,15.4,6244,"3,046"
+Trinity County,6105,16.4,2608,"2,975"
+Calaveras County,6009,16.8,7690,"2,943"
+Nevada County,6057,17,17355,"2,929"
+Tuolumne County,6109,17,9333,"2,925"
+Mariposa County,6043,17.1,2927,"2,910"
+Lassen County,6035,17.1,5460,"2,904"
+Plumas County,6063,17.4,3412,"2,871"
+San Luis Obispo County,6079,17.4,49037,"2,864"
+Santa Cruz County,6087,18.7,50320,"2,635"
+Humboldt County,6023,18.8,25608,"2,621"
+Modoc County,6049,18.9,1636,"2,597"
+Mono County,6051,19,2509,"2,576"
+Sonoma County,6097,19.3,94082,"2,516"
+Marin County,6041,19.6,50946,"2,428"
+El Dorado County,6017,19.7,37685,"2,395"
+San Mateo County,6081,19.9,150187,"2,333"
+Napa County,6055,20,27447,"2,316"
+Alameda County,6001,20,332827,"2,307"
+Butte County,6007,20.1,43011,"2,272"
+Siskiyou County,6093,20.1,8872,"2,271"
+Inyo County,6027,20.4,3838,"2,192"
+Yolo County,6113,20.5,44537,"2,143"
+Los Angeles County,6037,21.1,2093072,"1,954"
+Del Norte County,6015,21.1,5798,"1,933"
+Mendocino County,6045,21.1,19250,"1,927"
+Santa Clara County,6085,21.2,405816,"1,906"
+San Diego County,6073,21.2,697372,"1,898"
+Lake County,6033,21.3,14511,"1,855"
+Orange County,6059,21.4,680041,"1,816"
+Shasta County,6089,21.6,39190,"1,755"
+Placer County,6061,21.9,89190,"1,576"
+Solano County,6095,22,98997,"1,566"
+Santa Barbara County,6083,22.1,98581,"1,479"
+Contra Costa County,6013,22.2,258051,"1,457"
+Ventura County,6111,22.3,187695,"1,412"
+Alpine County,6003,22.8,345,"1,201"
+Sacramento County,6067,23.1,365288,"1,042"
+Tehama County,6103,23.8,15576,779
+Riverside County,6065,24.6,597531,531
+San Benito County,6069,25.4,16474,360
+Sutter County,6101,25.5,25242,353
+Monterey County,6053,25.8,113042,293
+San Bernardino County,6071,25.9,564737,286
+Glenn County,6021,26.5,7580,227
+San Joaquin County,6077,26.6,207464,215
+Colusa County,6011,26.6,5807,213
+Stanislaus County,6099,26.8,148111,198
+Kings County,6031,26.9,41048,194
+Yuba County,6115,27.1,22163,182
+Madera County,6039,27.3,42872,171
+Fresno County,6019,28.1,282976,132
+Imperial County,6025,28.4,51049,126
+Kern County,6029,28.8,261013,117
+Merced County,6047,29.2,82317,101
+Tulare County,6107,30.2,142992,71
+,,,,
+Suggested Citation:,,,,
+HDPulse: An Ecosystem of Minority Health and Health Disparities Resources. National Institute on Minority Health and Health Disparities. Created 11/15/2024. Available from https://hdpulse.nimhd.nih.gov,,,,
+,,,,
+Notes:,,,,
+Source: Demographic data provided by the Census Bureau (http://www.census.gov/) & the American Community Survey (http://www.census.gov/acs/www/).,,,,
+"For more information about Population (Age Under 18), see the dictionary at http://hdpulse.nimhd.nih.gov/data/dictionary.php#population.",,,,

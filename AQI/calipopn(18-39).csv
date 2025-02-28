@@ -1,0 +1,68 @@
+﻿County,FIPS,Value (Percent),People (Age 18-39),Rank within US (of 3143 counties)
+California,6000,31.5,12393699,46 of 52
+United States,0,29.8,98679467,N/A
+Yolo County,6113,39.9,86676,"3,078"
+San Francisco County,6075,37.6,320259,"3,046"
+Lassen County,6035,36.4,11609,"3,019"
+Kings County,6031,35.2,53637,"2,973"
+Santa Barbara County,6083,34.5,153560,"2,951"
+Butte County,6007,34,72633,"2,934"
+San Diego County,6073,33.6,1104263,"2,920"
+Yuba County,6115,33,26956,"2,900"
+San Luis Obispo County,6079,32.6,91855,"2,879"
+Los Angeles County,6037,32.5,3233600,"2,876"
+Alameda County,6001,32.5,540620,"2,868"
+San Bernardino County,6071,32.4,706043,"2,858"
+Santa Clara County,6085,32.3,619569,"2,852"
+Merced County,6047,32.3,91206,"2,851"
+Kern County,6029,32.2,292434,"2,845"
+Santa Cruz County,6087,32.2,86538,"2,843"
+Humboldt County,6023,32,43600,"2,828"
+Fresno County,6019,32,322864,"2,825"
+Imperial County,6025,31.5,56507,"2,783"
+Sacramento County,6067,31.4,496394,"2,779"
+Tulare County,6107,31.4,148573,"2,774"
+San Benito County,6069,31.3,20254,"2,762"
+Monterey County,6053,30.7,134479,"2,712"
+Stanislaus County,6099,30.6,169145,"2,700"
+San Joaquin County,6077,30.5,238033,"2,687"
+Riverside County,6065,30.3,736302,"2,656"
+Orange County,6059,30.2,958915,"2,641"
+Mono County,6051,29.9,3956,"2,598"
+Solano County,6095,29.7,134063,"2,566"
+Sutter County,6101,29.7,29425,"2,562"
+Madera County,6039,29.6,46613,"2,552"
+San Mateo County,6081,29.6,223522,"2,549"
+Ventura County,6111,28.9,243237,"2,381"
+Del Norte County,6015,28.9,7927,"2,379"
+Glenn County,6021,27.8,7962,"2,148"
+Colusa County,6011,27.7,6043,"2,126"
+Contra Costa County,6013,27.6,321365,"2,108"
+Napa County,6055,27,37135,"1,941"
+Sonoma County,6097,26.9,131551,"1,904"
+Shasta County,6089,26.2,47602,"1,635"
+Tehama County,6103,25.9,16948,"1,525"
+Placer County,6061,24.8,100698,"1,124"
+Alpine County,6003,24.3,368,975
+Mendocino County,6045,24.3,22106,957
+Inyo County,6027,24,4511,871
+Tuolumne County,6109,23.7,13054,785
+Amador County,6005,23.5,9538,719
+El Dorado County,6017,23.4,44879,705
+Lake County,6033,23.4,15890,694
+Modoc County,6049,22.1,1909,423
+Siskiyou County,6093,22,9706,418
+Nevada County,6057,21.7,22182,354
+Plumas County,6063,21,4133,261
+Calaveras County,6009,20.9,9563,249
+Marin County,6041,20.8,54081,220
+Mariposa County,6043,20.7,3548,211
+Sierra County,6091,19.7,574,128
+Trinity County,6105,19.4,3086,112
+,,,,
+Suggested Citation:,,,,
+HDPulse: An Ecosystem of Minority Health and Health Disparities Resources. National Institute on Minority Health and Health Disparities. Created 11/15/2024. Available from https://hdpulse.nimhd.nih.gov,,,,
+,,,,
+Notes:,,,,
+Source: Demographic data provided by the Census Bureau (http://www.census.gov/) & the American Community Survey (http://www.census.gov/acs/www/).,,,,
+"For more information about Population (Age 18 to 39), see the dictionary at http://hdpulse.nimhd.nih.gov/data/dictionary.php#population.",,,,

@@ -241,7 +241,7 @@ ggplot(Ozone_by_income_group_filtered, aes(x = Income_Group, y = Weighted_Mean_O
   labs(
     title = "Disparity in Ozone Concentrations by Income Group",
     x = "Income Group",
-    y = "Weighted Average Ozone (μg/m³)",
+    y = "Weighted Average Ozone (ppb)",
     caption = "Data from 2018-2022 Ozone Measurements"
   ) +
   theme_minimal() +
@@ -254,7 +254,7 @@ ggplot(Ozone_by_income_group_filtered, aes(x = Total_Population, y = Weighted_Me
   labs(
     title = "Weighted Mean Ozone vs Total Population by Income Group",
     x = "Total Population",
-    y = "Weighted Mean Ozone (μg/m³)",
+    y = "Weighted Mean Ozone (ppb)",
     color = "Income Group",
     caption = "Data from 2018-2022 Ozone Measurements"
   ) +
